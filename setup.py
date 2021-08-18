@@ -14,7 +14,7 @@ from setuptools import find_packages, setup, Command
 # Package meta-data.
 NAME = 'fugle-realtime-fix'
 DESCRIPTION = 'Fugle Realtime Python is a Python package to query realtime stock quote of Taiwan market through API provided by Fugle.'
-URL = 'https://github.com/fortuna-intelligence/fugle-realtime-py'
+URL = 'https://github.com/AlphaFinance/fugle_realtime_fix'
 EMAIL = 'alphafinance.tw@gmail.com'
 AUTHOR = 'KB'
 REQUIRES_PYTHON = '>=3.7.0'
