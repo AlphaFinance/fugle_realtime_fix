@@ -1,4 +1,7 @@
-### 本package為fugle-realtime的套件修正版，版權為fugle-realtime，若有侵害版權疑慮，請盡速聯絡我們，會盡速完成下架!
+##### 本package為fugle-realtime的套件修正版，版權為fugle-realtime，若有侵害版權疑慮，請盡速聯絡我們，會盡速完成下架!
+
+----------------------------------------------------------------
+
 # fugle-realtime-py
 
 [![Travis (.org)](https://img.shields.io/travis/fortuna-intelligence/fugle-realtime-py.svg)](https://travis-ci.org/fortuna-intelligence/fugle-realtime-py)
